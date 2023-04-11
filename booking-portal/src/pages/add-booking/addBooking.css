@@ -1,0 +1,14 @@
+.add-booking{
+    width: 50vw;
+    /* display: flex; */
+    margin: auto;
+    margin-top: 20px;
+}
+
+.inputTime{
+    display: flex;
+
+}
+.form{
+    margin-top: 20px;
+}
